@@ -1,4 +1,4 @@
-# Práctica 1 - Lab01
+# Práctica 3 - Lab03
 
 First Steps in ITK<br>
 Some notes<br>
