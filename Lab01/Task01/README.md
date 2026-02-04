@@ -1,2 +1,7 @@
-#Lab01 - Task 01#
-En esta tarea, nuestro objetivo es generar nuestro primer programa ejecutable. Para ello, solo necesitamos consultar la sección "Introducción a ITK" de la guía. En la figura 1, se puede ver una captura de pantalla de la interfaz gráfica de usuario de ncurses de CMake con las opciones de configuración listas para generar el proyecto. Es importante recordar que, después de generar los archivos del proyecto, en sistemas UNIX/Linux el proyecto debe compilarse escribiendo "make" en la terminal, siempre que el directorio actual sea el directorio binario del proyecto.
+# Lab01 - Task 01
+
+In this task our goal is to generate our first executable program and we just need to look up on the
+section “Getting Started with ITK” in the guide. You can see in figure 1 a screenshot of the CMake’s
+ncurses GUI with the configuration options ready to generate the project. You must remember after
+generating the project files, on UNIX/Linux systems the project has to be compiled by typing make in
+the terminal provided that the current directory is set to the project’s binary directory.
