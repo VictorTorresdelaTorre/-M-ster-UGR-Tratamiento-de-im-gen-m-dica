@@ -1,0 +1,3 @@
+# Lab03 - Task 03
+
+Write a program that reads an image from a file and displays the result of applying the CannyEdgeDetectionImageFilter to the input image. The idea is to obtain several results de- pending of the free parameters of the filter, together with using a previous noise reduction over an input image or providing the filter with the input image without any previous noise reduc- tion step. Try this program with the input images: BrainProtonDensitySlice256x256.png , saltAndPepperNoise1.jpg , saltAndPepperNoise2.jpg , and gaussianNoise.jpg . You may read the source code CannyEdgeDetectionImageFilter.cxx placed at ’ ITK_DIR/Examples/Filtering ’ to get a clue about how to program this task.
