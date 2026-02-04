@@ -1,0 +1,3 @@
+# Lab05 - Task 06
+
+In this task we will run an example for extracting an slice from a 3D volume. In this example the region that the ExtractImageFilter requires will be defined from the largest possible region of the input image. We take the size from the region and collapse the size in the Z component by setting its value to 0. This will indicate to the filter that the output image should have a dimension less than the input image. Note that in this case we are extracting a Z slice, and for that reason, the dimension to be collapsed is the one with index 2. You may keep in mind the association of index components {X = 0, Y = 1, Z = 2}. You have to build the example in the file ImageReadExtractWrite.cxx .
