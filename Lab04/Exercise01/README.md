@@ -1,0 +1,3 @@
+# Lab04 - Exercise 01
+
+Your exercise is just to use the programs you have written in Task1 (region growing segmentation) and Task2 (watershed segmentation) for writing a report. Take as input several MRI images from data and try to segment a couple of structures by using the two programs you have written with different parameter settings for the filters. Finally, try to use a mathematical morphology binary filter to correct some parts of a segmention result. Write a report on the different results you have obtained concerning the different types of images you have provided to your program, the different combinations of parameters and noise filtering on/off, and mathematical morphology on/off.
