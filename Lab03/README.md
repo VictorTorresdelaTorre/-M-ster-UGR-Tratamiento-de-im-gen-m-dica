@@ -1,6 +1,6 @@
 # Práctica 3 - Lab03
 
-First Steps in ITK<br>
+Segmenting with ITK (I)<br>
 Some notes<br>
 © 2020 Alejandro J. León Salas<br>
 February 15, 2020<br>
